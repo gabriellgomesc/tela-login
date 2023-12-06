@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "email": "gabriel@email.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "suporte@proinddy.com.br",
+      "password": "54321",
+      "id": 2
+    }
+  ]
+}
